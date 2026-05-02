@@ -1,50 +1,41 @@
-# 👋🏽 Hi, I'm Sharlyne Agini – Full-Stack Developer & Systems Architect
+# Hi, I’m Sharlyne Agini
 
-💼 Founder @ **Techgrind Technologies**  
-🎓 Creator of **FutureCode Academy** – equipping the next generation with tech skills  
-🛠 I specialize in **real-world business solutions** that are deployed, secure, and scalable.
+I build AI-powered automation systems, API integrations, and backend tools that help businesses reduce manual work and operate more efficiently.
 
----
+## What I Do
 
-## 🚀 What I Do
+- API Integrations (payments, SMS, third-party systems)
+- Workflow Automation (n8n, webhooks, event-driven systems)
+- AI Systems (OpenAI integrations, automation tools)
+- Backend Development (Node.js, FastAPI, PostgreSQL)
 
-🎯 Build full-stack systems that power real schools and businesses  
-🔐 Integrate biometric security, POS systems, and electronic access control  
-🧠 Solve complex problems with clean, modular code  
-🧪 Rapidly prototype, deploy, and scale SaaS-style tools  
+## Real Systems I’ve Built
 
----
+- Systems that process real-time data (biometrics, attendance, device logs)
+- Payment workflows including mobile money integrations (M-Pesa)
+- SMS notification systems with automated triggers and reporting
+- Business management systems used by schools and organizations
 
-## 🔨 Tech Stack & Tools
+## Featured Work
 
-**Languages:** JavaScript, SQL, Bash  
-**Frontend:** React, Tailwind, HTML5, CSS3  
-**Backend:** Node.js, Express.js, PostgreSQL, Sequelize  
-**DevOps:** Git, GitHub, Render, Vercel, Railway  
-**Systems:** JWT Auth, RBAC, REST APIs, Biometric Hardware Integration
+### AI Business Automation System
+Automates customer communication, CRM updates, and internal workflows using AI and automation tools.
 
----
+### Payment & API Integration System
+Handles transaction processing, reconciliation, and reporting through clean backend APIs.
 
-## 💼 Featured Projects
+### Real-Time Data Processing System
+Processes live data streams and triggers automated actions such as notifications and reporting.
 
-### 📚 [TGT LMS – Library Management System](https://github.com/Techgrind-Sharlyne/portfolio-projects/tree/main/projects/tgt-lms)
-A school-wide LMS with book tracking, dynamic class/stream config, role-based access, and scalable backend logic.
+## How I Work
 
-- ✅ Used by real schools
-- ✅ Integrates with biometric authentication
-- 🔒 Source code private – screenshots & documentation available
+I focus on building systems that:
+- Work reliably in real environments
+- Handle real-time data and edge cases
+- Scale as business needs grow
 
-📂 Explore more at → [Portfolio Projects](https://github.com/Techgrind-Sharlyne/portfolio-projects)
+## Let’s Work Together
 
----
-
-## 🌍 Let’s Connect
-
-💌 **andisiagini@gmail.com**  
-🌐 [crestfield.co.ke](https://www.crestfield.co.ke)  
-🌐 [tgt.co.ke](https://www.tgt.co.ke) 
-🔗 [LinkedIn](https://www.linkedin.com/in/sharlyne-agini-167350378)
-
----
-
-> ⚠️ Many of my production systems are used in live institutions or retail environments. Source code is protected, but I’m happy to walk you through live deployments and capabilities.
+- Email: andisiagini@gmail.com OR andisi@tgt.co.ke
+- LinkedIn: https://www.linkedin.com/in/sharlyne-agini-167350378/
+- https://sharlyneagini.tgt.co.ke/
